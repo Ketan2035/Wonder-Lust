@@ -8,7 +8,7 @@
 **Wanderlust** is a modern Airbnb-like web application where users can explore, create, and manage listings for unique stays around the world.  
 Users can upload images, search properties, and view listings by categories — all in a responsive, modern UI.  
 
-🌐 **Live Demo:** [wanderlust-y4ja.onrender.com](https://wanderlust-y4ja.onrender.com)
+🌐 **Live Demo:** [wanderlust-y4ja.onrender.com](https://wanderlust-y4ja.onrender.com/listings)
 
 ---
 
